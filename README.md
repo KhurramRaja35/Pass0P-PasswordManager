@@ -33,12 +33,16 @@ cd passop-password-manager
 npm install
 npm run dev```
 
-## ⚠️ Disclaimer
-This application includes a "Hide Password" feature for basic privacy during use. However, passwords are still stored in plain text using the browser’s localStorage.
+**⚠️ Disclaimer**  
+This application includes a "Hide Password" feature for basic privacy during use.  
+However, passwords are still stored in plain text using localStorage.  
 PassOP is intended for educational or demo purposes only — please do not use it to store sensitive or real-world credentials.
 
-## 👤 Developer
+---
+
+**👤 Developer**
 Made with ❤️ by KBR
 ```
 🔗: https://github.com/KhurramRaja35/
 ```
+---
