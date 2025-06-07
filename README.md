@@ -2,12 +2,16 @@
 
 PassOP is a lightweight and responsive web-based password manager built with React and Tailwind CSS. It helps you securely store your website login credentials (URL, username, password) using the browser’s localStorage.
 
+---
+
 ## 🚀 Features
 - Save login credentials: URL, Username, Password
 - View and delete saved credentials
 - Responsive and modern UI with Tailwind
 - Animated icons for better UX
 - GitHub profile button for developer connection
+
+---
 
 ## 🛠️ Tech Stack
 - React
@@ -28,7 +32,7 @@ The project is deployed on **Netlify** and can be accessed here:
 ## 🧑‍💻 Getting Started
 
 ```
-git clone https://github.com/yourusername/passop-password-manager.git
+git clone https://github.com/KhurramRaja35/passop-password-manager.git
 cd passop-password-manager
 npm install
 npm run dev
@@ -42,7 +46,6 @@ PassOP is intended for educational or demo purposes only — please do not use i
 ---
 
 **👤 Developer**
-Made with ❤️ by KBR
 ```
 🔗: https://github.com/KhurramRaja35/
 ```
