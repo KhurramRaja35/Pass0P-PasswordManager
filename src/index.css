@@ -1,0 +1,42 @@
+@import "tailwindcss";
+/* Google Fonts import moved to HTML for better performance */
+
+*{
+  font-family: "Roboto", sans-serif;
+}
+  
+
+/* @layer components{
+  .mycontainer{
+    @apply container px-[200px] py-8 mx-auto;
+  }
+  .nfcontainer{
+    @apply container px-[200px] py-8 mx-auto;
+  }
+} */
+
+/* @layer components {
+  @variants responsive {
+    .mycontainer {
+      @apply container px-[200px] py-8 mx-auto;
+    }
+  }
+} */
+
+/* @layer components {
+  .mycontainer {
+    /* Base (small screens): No container styles */
+     /* @screen md {
+      /* Only applied at `md` and up */
+      /* @apply container mx-auto px-[200px] py-8;
+    }
+  }
+} */ 
+
+/* @layer components {
+  .mycontainer {
+    @media (min-width: 768px) {  /* Replace @screen md */
+      /* @apply container mx-auto px-[200px] py-8; */
+    /* } */
+  /* } */
+/* } */ 

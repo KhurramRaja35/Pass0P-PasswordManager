@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+.cache/
+.temp/
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing/Coverage
+coverage/
+.nyc_output/
+
+# Lockfiles (uncomment if needed)
+# yarn.lock
+# pnpm-lock.yaml
