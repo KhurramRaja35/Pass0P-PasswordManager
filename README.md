@@ -1,12 +1,44 @@
-# React + Vite
+# PassOP – Your Password Manager 🔐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOP is a lightweight and responsive web-based password manager built with React and Tailwind CSS. It helps you securely store your website login credentials (URL, username, password) using the browser’s localStorage.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Save login credentials: URL, Username, Password
+- View and delete saved credentials
+- Responsive and modern UI with Tailwind
+- Animated icons for better UX
+- GitHub profile button for developer connection
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- LocalStorage API
+- React Icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+
+The project is deployed on **Netlify** and can be accessed here:
+```
+🔗 https://passop-kbr.netlify.app/
+```
+---
+
+## 🧑‍💻 Getting Started
+
+```bash
+git clone https://github.com/yourusername/passop-password-manager.git
+cd passop-password-manager
+npm install
+npm run dev
+
+## ⚠️ Disclaimer
+This application includes a "Hide Password" feature for basic privacy during use. However, passwords are still stored in plain text using the browser’s localStorage.
+PassOP is intended for educational or demo purposes only — please do not use it to store sensitive or real-world credentials.
+
+## 👤 Developer
+Made with ❤️ by KBR
+```
+🔗: https://github.com/KhurramRaja35/
+```
