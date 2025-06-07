@@ -27,11 +27,12 @@ The project is deployed on **Netlify** and can be accessed here:
 
 ## 🧑‍💻 Getting Started
 
-```bash
+```
 git clone https://github.com/yourusername/passop-password-manager.git
 cd passop-password-manager
 npm install
-npm run dev```
+npm run dev
+```
 
 **⚠️ Disclaimer**  
 This application includes a "Hide Password" feature for basic privacy during use.  
